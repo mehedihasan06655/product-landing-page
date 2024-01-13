@@ -1,0 +1,36 @@
+.banner-bg {
+    background-color: #ffffff;
+    border-radius: 27px;
+    color: #000000;
+    text-align: center;
+}
+.Banner h2 {
+    font-size: 64px;
+    margin-top: 62px;
+}
+
+.Banner p {
+    font-size: 21px;
+}
+
+button.banner-btn {
+    display: block;
+    text-align: center;
+    background: #000000;
+    color: #ffffff;
+    padding: 14px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.Banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 31px;
+}
+img.banner-img {
+    width: 1000px;
+}

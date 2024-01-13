@@ -1,0 +1,7 @@
+.common-btn{
+    border: 1px solid #24FFFF;
+    padding: 10px 20px;
+    border-radius: 40px;
+    background-color: transparent;
+    cursor: pointer;
+}

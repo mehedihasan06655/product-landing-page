@@ -1,0 +1,27 @@
+
+.branding > div {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(236px, 1fr));
+    justify-content: center;
+    align-items: center;
+    gap: 34px;
+}
+
+.branding > div img {
+    width: 100%;
+}
+
+.branding p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.branding {
+    height: 350px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
